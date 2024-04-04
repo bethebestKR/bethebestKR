@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hello+World🐯🤖&font=Redressed&size=40)](https://git.io/typing-svg)
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -30,50 +28,4 @@ Here are some ideas to get you started:
 </a>
 
 
-<span>
-    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
-    <img src="https://img.shields.io/badge/css3-#1572B6?style=plastic&logo=CSS&logoColor=white"/>
-
-    <img src="https://img.shields.io/badge/#1572B6?style=plastic&logo=CSS&logoColor=blue"/>
-    <img src="https://img.shields.io/badge/HTML5-#E34F26?style=plastic&logo=HTML5&logoColor=orange"/>
-    <img src="https://img.shields.io/badge/React#61DAFB?style=plastic&logo=React&logoColor=skyblue"/> 
-    <img src="https://img.shields.io/badge/css3-#1572B6?style=for-the-badge&logo=CSS&logoColor=blue">
-
-      
-  
-</span>
-
-
-name: generate animation
-on:
-  schedule:
-    - cron: "0 */24 * * *" 
-  workflow_dispatch:
-  push:
-    branches:
-    - master
-    
-jobs:
-  generate:
-    permissions: 
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
-    steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: bethebestKR
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the badge&logo=javascript&logoColor=black" />
