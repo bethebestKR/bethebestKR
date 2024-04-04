@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 <!-- icon logo-->
 <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /> 
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/CSS3-#1572B6?style=plastic&logo=CSS&logoColor=black"/>
+<img src="https://img.shields.io/badge/CSS3-#1572B6.svg?style=for-the badge&logo=CSS&logoColor=black"/>
