@@ -27,6 +27,14 @@ Here are some ideas to get you started:
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=junia3&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
+
+<span>
+  <a href="https://www.instagram.com/6unoyunr/">
+    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
+  </a>
+</span>
+
+
 name: generate animation
 on:
   schedule:
