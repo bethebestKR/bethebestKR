@@ -16,14 +16,16 @@ Here are some ideas to get you started:
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
-<!-- Title Typing Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+YeongChang+Ma;Do+It+And+Be+The+Best" alt="Typing SVG" /></a>
-<div align="center">  
 
+<!-- Title Typing Effect -->
+<div align="center">  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+YeongChang+Ma;Do+It+And+Be+The+Best" alt="Typing SVG" /></a>
+
+</div>
 
 
 <!-- icon logo-->
-<h3 align="center">📚 Studying 📚</h3>
+<h3 align="center">📚 Now Studying 📚</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/css3-1572B6?style=plastic&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5-E34F26?style=plastic&logo=html5&logoColor=white"/>
@@ -32,7 +34,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/csharp-512BD4?style=plastic&logo=csharp&logoColor=white"/>
 
 
-</div>
+
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
