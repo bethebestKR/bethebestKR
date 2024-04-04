@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=Welcome%20to%20Jiho's%20GitHub%20
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=Welcome%20to%20Jiho's%20GitHub%20animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250
 " width="100%"/>
 
 
