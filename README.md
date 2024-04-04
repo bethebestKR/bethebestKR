@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <span>
 <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-#1572B6?style=plastic&logo=CSS&logoColor=blue"/>
+<img src="https://img.shields.io/badge/#1572B6?style=plastic&logo=CSS&logoColor=blue"/>
 <img src="https://img.shields.io/badge/HTML5-#E34F26?style=plastic&logo=HTML5&logoColor=orange"/>
 <img src="https://img.shields.io/badge/React#61DAFB?style=plastic&logo=React&logoColor=skyblue"/> 
     
