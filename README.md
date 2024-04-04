@@ -30,6 +30,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/dotenv-ECD53F?style=plastic&logo=dotenv&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5-E34F26?style=plastic&logo=HTML&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
 
 </div>
 
