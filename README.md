@@ -22,11 +22,12 @@ Here are some ideas to get you started:
 <!-- icon logo-->
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  
-  
 <img src="https://img.shields.io/badge/css3-1572B6?style=plastic&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5-E34F26?style=plastic&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/react-61DAFB?style=plastic&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/csharp-512BD4?style=plastic&logo=csharp&logoColor=white"/>
+
 
 </div>
 
