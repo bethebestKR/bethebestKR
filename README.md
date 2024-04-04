@@ -29,9 +29,12 @@ Here are some ideas to get you started:
 
 
 <span>
-  <a href="https://www.instagram.com/6unoyunr/">
+  
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
-  </a>
+      <img src="https://img.shields.io/badge/Instagram-#1572B6?style=plastic&logo=CSS&logoColor=blue"/>
+      <img src="https://img.shields.io/badge/Instagram-#E34F26?style=plastic&logo=HTML5&logoColor=orange"/>
+      <img src="https://img.shields.io/badge/Instagram-#61DAFB?style=plastic&logo=React&logoColor=skyblue"/>
+  
 </span>
 
 
