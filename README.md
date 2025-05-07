@@ -23,17 +23,32 @@ Here are some ideas to get you started:
 
 
 <!-- icon logo-->
-<h3 align="center">📚 Studying 📚</h3>
+<h3 align="center">📚 What I've Used 📚</h3>
+<br>
 <div align="center">
-<!-- <img src="https://img.shields.io/badge/css3-1572B6?style=plastic&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/css3-1572B6?style=plastic&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5-E34F26?style=plastic&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/react-61DAFB?style=plastic&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/csharp-512BD4?style=plastic&logo=csharp&logoColor=white"/> -->
-
-
 </div>
 
+<div align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/csharp-512BD4?style=plastic&logo=csharp&logoColor=white"/>
+</div>
+
+
+<br><br>
+
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cacai18)
+<img src="http://mazandi.herokuapp.com/api?handle=cacai18&theme=dark"/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bethebestKR&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
@@ -44,6 +59,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=bethebestKR&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
+
 
 <!--snake moving-->
 <img src="https://github.com/bethebestKR/bethebestKR/blob/output/github-snake-dark.svg" width="100%">
