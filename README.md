@@ -40,10 +40,7 @@
 | 2026.04 ~ 2026.07 | 코딩 보조강사 | AI Academy 전문코스 (삼성물산,농심 등 임직원 대상)|
 
 
----
 
-## 🏆 Baekjoon Online Judge Tier
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cacai18)
 
 <br>
 
